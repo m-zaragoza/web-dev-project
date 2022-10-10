@@ -26,7 +26,7 @@ The end result is not what it would be if I were to do this project again today 
 
 ### Acknowledgements
 -----
-Google Fonts- https://fonts.google.com/\
-Font Awesome- https://fontawesome.com/
+Google Fonts- https://fonts.google.com\
+Font Awesome- https://fontawesome.com
 
 
